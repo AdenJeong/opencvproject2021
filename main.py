@@ -3,7 +3,7 @@ import numpy as np
 import cv2
 
 
-filename = 'photo\\pcc.jpg'
+filename = 'photo\\coastguard.jpg'
 
 if len(sys.argv) > 1:
     filename = sys.argv[1]

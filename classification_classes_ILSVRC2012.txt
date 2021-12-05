@@ -831,7 +831,7 @@ streetcar, tram, tramcar, trolley, trolley car
 stretcher
 studio couch, day bed
 stupa, tope
-submarine, pigboat, sub, U-boat
+submarine, naval vessel
 suit, suit of clothes
 sundial
 sunglass
