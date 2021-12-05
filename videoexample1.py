@@ -2,7 +2,7 @@ import cv2, pafy, youtube_dl
 import sys
 import numpy as np
 
-url = 'https://www.youtube.com/watch?v=ZXF1sHkHAZc'
+url = 'https://www.youtube.com/watch?v=zCx-wg-qNj8'
 video = pafy.new(url)
 best = video.getbest(preftype='mp4') # 'webm','3gp'
 # 카메라 열기
@@ -11,7 +11,6 @@ cap = cv2.VideoCapture(best.url) # 클래스 생성
 print('title = ', video.title)
 print('author = ', video.author)
 print('video.rating = ', video.rating)
-print('video.likes = ', video.likes)
 print('video.duration = ', video.duration)
 # cap.open(0) # 0번 카메라 열기, videoCapture(0)을 하면 안해도 됌
 
@@ -43,10 +42,11 @@ while True:  # 무한 루프
     confidence = out[classId]
 
     str = '%s (%4.2f%%)' % (classNames[classId], confidence * 100)
-    if (confidence * 100) > 50:
-        cv2.putText(img, str, (10, 30), cv2.FONT_HERSHEY_SIMPLEX, 0.9, (0, 0, 255), 1, cv2.LINE_AA)
-    else:
-        cv2.putText(img,'not sure', (10,30), cv2.FONT_HERSHEY_SIMPLEX, 0.9,(0, 0, 255), 1, cv2.LINE_AA)
+    cv2.putText(img, str, (10, 30), cv2.FONT_HERSHEY_SIMPLEX, 0.9, (0, 0, 255), 1, cv2.LINE_AA)
+    # if (confidence * 100) > 50:
+    #     cv2.putText(img, str, (10, 30), cv2.FONT_HERSHEY_SIMPLEX, 0.9, (0, 0, 255), 1, cv2.LINE_AA)
+    # else:
+    #     cv2.putText(img,'not sure', (10,30), cv2.FONT_HERSHEY_SIMPLEX, 0.9,(0, 0, 255), 1, cv2.LINE_AA)
 
     cv2.imshow('img', img)
 
