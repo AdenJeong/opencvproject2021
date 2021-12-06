@@ -28,7 +28,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.videoexample1">
+  <component name="RunManager" selected="Python.main">
     <configuration name="example1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="opencvproject2021" />
       <option name="INTERPRETER_OPTIONS" value="" />

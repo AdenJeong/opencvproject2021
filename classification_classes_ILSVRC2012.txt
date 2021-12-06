@@ -401,9 +401,9 @@ abaya
 academic gown, academic robe, judge's robe
 accordion, piano accordion, squeeze box
 acoustic guitar
-aircraft carrier, warship
-airliner, aircraft
-airship, dirigible
+warship
+aircraft
+glider
 altar
 ambulance
 amphibian, amphibious vehicle
@@ -508,7 +508,7 @@ coil, spiral, volute, whorl, helix
 combination lock
 computer keyboard, keypad
 confectionery, confectionary, candy store
-container ship, containership, container vessel
+vessel
 convertible
 corkscrew, bottle screw
 cornet, horn, trumpet, trump
@@ -538,7 +538,7 @@ dock, dockage, docking facility
 dogsled, dog sled, dog sleigh
 dome
 doormat, welcome mat
-drilling platform, offshore rig
+maritime structure
 drum, membranophone, tympan
 drumstick
 dumbbell
@@ -547,12 +547,12 @@ electric fan, blower
 electric guitar
 electric locomotive
 entertainment center
-envelope
+cloud
 espresso maker
 face powder
 feather boa, boa
 file, file cabinet, filing cabinet
-fireboat
+speedboat
 fire engine, fire truck
 fire screen, fireguard
 flagpole, flagstaff
@@ -626,7 +626,7 @@ library
 lifeboat
 lighter, light, igniter, ignitor
 limousine, limo
-liner, ocean liner
+naval ship
 lipstick, lip rouge
 Loafer
 lotion
@@ -699,7 +699,7 @@ pajama, pyjama, pj's, jammies
 palace
 panpipe, pandean pipe, syrinx
 paper towel
-parachute, chute
+decoy, deployment
 parallel bars, bars
 park bench
 parking meter
@@ -800,7 +800,7 @@ slide rule, slipstick
 sliding door
 slot, one-armed bandit
 snorkel
-snowmobile
+machine
 snowplow, snowplough
 soap dispenser
 soccer ball
@@ -810,7 +810,7 @@ sombrero
 soup bowl
 space bar
 space heater
-space shuttle
+multirole aircraft
 spatula
 speedboat
 spider web, spider's web
@@ -831,7 +831,7 @@ streetcar, tram, tramcar, trolley, trolley car
 stretcher
 studio couch, day bed
 stupa, tope
-submarine, naval vessel
+naval vessel
 suit, suit of clothes
 sundial
 sunglass
@@ -906,7 +906,7 @@ window screen
 window shade
 Windsor tie
 wine bottle
-wing
+aircraft
 wok
 wooden spoon
 wool, woolen, woollen
@@ -972,13 +972,13 @@ alp
 bubble
 cliff, drop, drop-off
 coral reef
-geyser
+smoke
 lakeside, lakeshore
 promontory, headland, head, foreland
 sandbar, sand bar
 seashore, coast, seacoast, sea-coast
 valley, vale
-volcano
+explosion
 ballplayer, baseball player
 groom, bridegroom
 scuba diver
