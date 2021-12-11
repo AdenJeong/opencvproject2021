@@ -6,7 +6,6 @@ class VideoCap_Classify():
 
     def __init__(self):
         url = 'https://www.youtube.com/watch?v=WrfLHAX82g4'  # 공지합동훈련
-        #url = 'https://www.youtube.com/watch?v=cL-D2P0UMfU'  #해군 관함식
         video = pafy.new(url)
         best = video.getbest(preftype='mp4')  # 'webm','3gp'
         self.cap = cv2.VideoCapture(best.url)  # 클래스 생성
@@ -43,24 +42,13 @@ class VideoCap_Classify():
             classId = np.argmax(out)
             confidence = out[classId]
 
-
             str = '%s (%4.2f%%)' % (classNames[classId], confidence * 100)
-            # cv2.putText(img, str, (10, 30), cv2.FONT_HERSHEY_SIMPLEX, 0.9, (0, 0, 255), 1, cv2.LINE_AA)
             if (confidence * 100) > 30:
                 cv2.putText(img, str, (10, 30), cv2.FONT_HERSHEY_SIMPLEX, 0.9, (0, 0, 255), 1, cv2.LINE_AA)
             else:
                 cv2.putText(img, 'not sure', (10, 30), cv2.FONT_HERSHEY_SIMPLEX, 0.9, (0, 0, 255), 1, cv2.LINE_AA)
 
             cv2.imshow('img', img)
-
-            # 정지화면에서 윤곽선을 추출
-            # edge = cv2.Canny(frame, 50, 150)
-
-            # inversed = ~frame  # 반전
-
-            #    cv2.imshow('frame', frame)   #기본영상
-            #    cv2.imshow('inversed', inversed) #색반전영상
-            #    cv2.imshow('edge', edge)  #윤곽선영상
 
             # 5ms 기다리고 다음 프레임으로 전환, Esc누르면 while 강제 종료
             if cv2.waitKey(5) == 27:

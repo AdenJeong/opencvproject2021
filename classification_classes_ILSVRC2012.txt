@@ -19,7 +19,7 @@ jay
 magpie
 chickadee
 water ouzel, dipper
-kite
+projectile
 bald eagle, American eagle, Haliaeetus leucocephalus
 vulture
 great grey owl, great gray owl, Strix nebulosa

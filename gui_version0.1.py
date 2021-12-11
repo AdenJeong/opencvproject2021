@@ -31,6 +31,7 @@ class Tk_Video:
         video = pafy.new(url3)
         best = video.getbest(preftype='mp4')  # 'webm','3gp'
         self.cap = cv2.VideoCapture(best.url)  # 클래스 생성
+        #self.cap = cv2.VideoCapture(0)  # 웹캠 켤때
 
         self.win.bind('<Escape>', self.close_sc)
         self.video_play()
@@ -71,17 +72,23 @@ class Tk_Video:
 
         if (confidence * 100) > 60:
             self.class_list.append(classNames[classId])
-            h = frame.shape[0]
-            w = frame.shape[1]
-
-            box = detections[0, 0, i, 3:7] * np.array([w, h, w, h])
-            (startX, startY, endX, endY) = box.astype('int')
-            cv2.rectangle(frame, (startX, startY), (endX, endY), (255, 255, 0), 2)
-
+        # cv2.putText(img, str, (10, 30), cv2.FONT_HERSHEY_SIMPLEX, 0.9, (0, 0, 255), 1, cv2.LINE_AA)
         if (confidence * 100) > 30:
             self.lbl2.configure(text = str)
+            #cv2.putText(img, str, (10, 30), cv2.FONT_HERSHEY_SIMPLEX, 0.9, (0, 0, 255), 1, cv2.LINE_AA)
         else:
             self.lbl2.configure(text = 'not sure')
+            #cv2.putText(img, 'not sure', (10, 30), cv2.FONT_HERSHEY_SIMPLEX, 0.9, (0, 0, 255), 1, cv2.LINE_AA)
+        #cv2.imshow('img', img)
+
+        # 정지화면에서 윤곽선을 추출
+        # edge = cv2.Canny(frame, 50, 150)
+
+        # inversed = ~frame  # 반전
+
+        #    cv2.imshow('frame', frame)   #기본영상
+        #    cv2.imshow('inversed', inversed) #색반전영상
+        #    cv2.imshow('edge', edge)  #윤곽선영상
 
         # 5ms 기다리고 다음 프레임으로 전환, Esc누르면 while 강제 종료
         frame = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
