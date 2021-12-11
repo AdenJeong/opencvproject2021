@@ -1,0 +1,11 @@
+amphibious vehicle
+vessel
+multirole aircraft
+speedboat
+naval ship
+pirate, pirate ship
+decoy, deployment
+maritime structure
+military air vehicle
+warship
+naval vessel

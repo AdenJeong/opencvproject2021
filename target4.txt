@@ -1,0 +1,7 @@
+machine
+glider
+tank, armored combat vehicle
+aircraft
+multirole aircraft
+military air vehicle
+decoy, deployment

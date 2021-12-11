@@ -1,0 +1,4 @@
+machine
+amphibious vehicle
+tank, armored combat vehicle
+unicycle, monocycle

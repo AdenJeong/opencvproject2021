@@ -1,44 +1,44 @@
 tench, Tinca tinca
 goldfish, Carassius auratus
-great white shark, white shark, man-eater, man-eating shark, Carcharodon carcharias
-tiger shark, Galeocerdo cuvieri
-hammerhead, hammerhead shark
-electric ray, crampfish, numbfish, torpedo
+great white shark,
+tiger shark
+hammerhead shark
+electric ray, torpedo
 stingray
 cock
 hen
 ostrich, Struthio camelus
-brambling, Fringilla montifringilla
-goldfinch, Carduelis carduelis
-house finch, linnet, Carpodacus mexicanus
+brambling, 
+goldfinch
+house finch
 junco, snowbird
-indigo bunting, indigo finch, indigo bird, Passerina cyanea
-robin, American robin, Turdus migratorius
+indigo bunting, indigo finch, indigo bird
+robin, American robin
 bulbul
 jay
 magpie
 chickadee
 water ouzel, dipper
 projectile
-bald eagle, American eagle, Haliaeetus leucocephalus
+bald eagle, American eagle
 vulture
-great grey owl, great gray owl, Strix nebulosa
-European fire salamander, Salamandra salamandra
-common newt, Triturus vulgaris
+great grey owl, great gray owl
+European fire salamander
+common newt
 eft
-spotted salamander, Ambystoma maculatum
-axolotl, mud puppy, Ambystoma mexicanum
+spotted salamander
+axolotl, mud puppy
 bullfrog, Rana catesbeiana
 tree frog, tree-frog
-tailed frog, bell toad, ribbed toad, tailed toad, Ascaphus trui
-loggerhead, loggerhead turtle, Caretta caretta
-leatherback turtle, leatherback, leathery turtle, Dermochelys coriacea
+tailed frog, bell toad
+loggerhead, loggerhead turtle
+leatherback turtle, leatherback
 mud turtle
 terrapin
 box turtle, box tortoise
 banded gecko
-common iguana, iguana, Iguana iguana
-American chameleon, anole, Anolis carolinensis
+common iguana, iguana
+American chameleon, anole
 whiptail, whiptail lizard
 agama
 frilled lizard, Chlamydosaurus kingi
@@ -46,13 +46,13 @@ alligator lizard
 Gila monster, Heloderma suspectum
 green lizard, Lacerta viridis
 African chameleon, Chamaeleo chamaeleon
-Komodo dragon, Komodo lizard, dragon lizard, giant lizard, Varanus komodoensis
-African crocodile, Nile crocodile, Crocodylus niloticus
-American alligator, Alligator mississipiensis
+Komodo dragon, Komodo lizard
+African crocodile, Nile crocodile
+American alligator
 triceratops
-thunder snake, worm snake, Carphophis amoenus
-ringneck snake, ring-necked snake, ring snake
-hognose snake, puff adder, sand viper
+thunder snake, worm snake
+ringneck snake, ring-necked snake
+hognose snake, puff adder
 green snake, grass snake
 king snake, kingsnake
 garter snake, grass snake
@@ -64,13 +64,13 @@ rock python, rock snake, Python sebae
 Indian cobra, Naja naja
 green mamba
 sea snake
-horned viper, cerastes, sand viper, horned asp, Cerastes cornutus
-diamondback, diamondback rattlesnake, Crotalus adamanteus
-sidewinder, horned rattlesnake, Crotalus cerastes
+horned viper, cerastes, sand viper
+diamondback, diamondback rattlesnake
+sidewinder, horned rattlesnake
 trilobite
-harvestman, daddy longlegs, Phalangium opilio
+harvestman, daddy longlegs
 scorpion
-black and gold garden spider, Argiope aurantia
+black and gold garden spider
 barn spider, Araneus cavaticus
 garden spider, Aranea diademata
 black widow, Latrodectus mactans
@@ -87,7 +87,7 @@ quail
 partridge
 African grey, African gray, Psittacus erithacus
 macaw
-sulphur-crested cockatoo, Kakatoe galerita, Cacatua galerita
+sulphur-crested cockatoo
 lorikeet
 coucal
 bee eater
@@ -101,27 +101,27 @@ goose
 black swan, Cygnus atratus
 tusker
 echidna, spiny anteater, anteater
-platypus, duckbill, duckbilled platypus, duck-billed platypus, Ornithorhynchus anatinus
+platypus, duckbill
 wallaby, brush kangaroo
-koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus
+koala, koala bear, kangaroo bear
 wombat
 jellyfish
 sea anemone, anemone
 brain coral
 flatworm, platyhelminth
-nematode, nematode worm, roundworm
+nematode, nematode worm
 conch
 snail
 slug
 sea slug, nudibranch
-chiton, coat-of-mail shell, sea cradle, polyplacophore
-chambered nautilus, pearly nautilus, nautilus
+chiton, coat-of-mail shell
+chambered nautilus
 Dungeness crab, Cancer magister
 rock crab, Cancer irroratus
 fiddler crab
-king crab, Alaska crab, Alaskan king crab, Alaska king crab, Paralithodes camtschatica
-American lobster, Northern lobster, Maine lobster, Homarus americanus
-spiny lobster, langouste, rock lobster, crawfish, crayfish, sea crawfish
+king crab, Alaska crab, Alaskan king crab
+American lobster, Northern lobster
+spiny lobster, langouste, rock lobster
 crayfish, crawfish, crawdad, crawdaddy
 hermit crab
 isopod
@@ -130,28 +130,28 @@ black stork, Ciconia nigra
 spoonbill
 flamingo
 little blue heron, Egretta caerulea
-American egret, great white heron, Egretta albus
+American egret, great white heron
 bittern
 crane
 limpkin, Aramus pictus
 European gallinule, Porphyrio porphyrio
-American coot, marsh hen, mud hen, water hen, Fulica americana
+American coot, marsh hen, mud hen
 bustard
 ruddy turnstone, Arenaria interpres
-red-backed sandpiper, dunlin, Erolia alpina
+red-backed sandpiper, dunlin
 redshank, Tringa totanus
 dowitcher
 oystercatcher, oyster catcher
 pelican
 king penguin, Aptenodytes patagonica
 albatross, mollymawk
-grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus
-killer whale, killer, orca, grampus, sea wolf, Orcinus orca
+grey whale, gray whale, devilfish
+killer whale, killer, orca
 dugong, Dugong dugon
 sea lion
 Chihuahua
 Japanese spaniel
-Maltese dog, Maltese terrier, Maltese
+Maltese dog, Maltese terrier
 Pekinese, Pekingese, Peke
 Shih-Tzu
 Blenheim spaniel
@@ -178,7 +178,7 @@ Saluki, gazelle hound
 Scottish deerhound, deerhound
 Weimaraner
 Staffordshire bullterrier, Staffordshire bull terrier
-American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier
+American Staffordshire terrier
 Bedlington terrier
 Border terrier
 Kerry blue terrier
@@ -233,7 +233,7 @@ collie
 Border collie
 Bouvier des Flandres, Bouviers des Flandres
 Rottweiler
-German shepherd, German shepherd dog, German police dog, alsatian
+German shepherd
 Doberman, Doberman pinscher
 miniature pinscher
 Greater Swiss Mountain dog
@@ -250,7 +250,7 @@ Eskimo dog, husky
 malamute, malemute, Alaskan malamute
 Siberian husky
 dalmatian, coach dog, carriage dog
-affenpinscher, monkey pinscher, monkey dog
+affenpinscher, monkey pinscher
 basenji
 pug, pug-dog
 Leonberg
@@ -273,7 +273,7 @@ red wolf, maned wolf, Canis rufus, Canis niger
 coyote, prairie wolf, brush wolf, Canis latrans
 dingo, warrigal, warragal, Canis dingo
 dhole, Cuon alpinus
-African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus
+African hunting dog, hyena dog
 hyena, hyaena
 red fox, Vulpes vulpes
 kit fox, Vulpes macrotis
@@ -284,7 +284,7 @@ tiger cat
 Persian cat
 Siamese cat, Siamese
 Egyptian cat
-cougar, puma, catamount, mountain lion, painter, panther, Felis concolor
+cougar, puma, catamount
 lynx, catamount
 leopard, Panthera pardus
 snow leopard, ounce, Panthera uncia
@@ -293,15 +293,15 @@ lion, king of beasts, Panthera leo
 tiger, Panthera tigris
 cheetah, chetah, Acinonyx jubatus
 brown bear, bruin, Ursus arctos
-American black bear, black bear, Ursus americanus, Euarctos americanus
-ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus
-sloth bear, Melursus ursinus, Ursus ursinus
+American black bear, black bear
+ice bear, polar bear
+sloth bear, Melursus ursinus
 mongoose
 meerkat, mierkat
 tiger beetle
-ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle
+ladybug, ladybeetle, lady beetle
 ground beetle, carabid beetle
-long-horned beetle, longicorn, longicorn beetle
+long-horned beetle, longicorn
 leaf beetle, chrysomelid
 dung beetle
 rhinoceros beetle
@@ -317,11 +317,11 @@ mantis, mantid
 cicada, cicala
 leafhopper
 lacewing, lacewing fly
-dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk
+dragonfly, darning needle
 damselfly
 admiral
 ringlet, ringlet butterfly
-monarch, monarch butterfly, milkweed butterfly, Danaus plexippus
+monarch, monarch butterfly
 cabbage butterfly
 sulphur butterfly, sulfur butterfly
 lycaenid, lycaenid butterfly
@@ -333,7 +333,7 @@ hare
 Angora, Angora rabbit
 hamster
 porcupine, hedgehog
-fox squirrel, eastern fox squirrel, Sciurus niger
+fox squirrel, eastern fox squirrel
 marmot
 beaver
 guinea pig, Cavia cobaya
@@ -342,12 +342,12 @@ zebra
 hog, pig, grunter, squealer, Sus scrofa
 wild boar, boar, Sus scrofa
 warthog
-hippopotamus, hippo, river horse, Hippopotamus amphibius
+hippopotamus, hippo, river horse
 ox
-water buffalo, water ox, Asiatic buffalo, Bubalus bubalis
+water buffalo, water ox, Asiatic buffalo
 bison
 ram, tup
-bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis
+bighorn, bighorn sheep, cimarron
 ibex, Capra ibex
 hartebeest
 impala, Aepyceros melampus
@@ -367,7 +367,7 @@ orangutan, orang, orangutang, Pongo pygmaeus
 gorilla, Gorilla gorilla
 chimpanzee, chimp, Pan troglodytes
 gibbon, Hylobates lar
-siamang, Hylobates syndactylus, Symphalangus syndactylus
+siamang, Hylobates syndactylus
 guenon, guenon monkey
 patas, hussar monkey, Erythrocebus patas
 baboon
@@ -385,15 +385,15 @@ Madagascar cat, ring-tailed lemur, Lemur catta
 indri, indris, Indri indri, Indri brevicaudatus
 Indian elephant, Elephas maximus
 African elephant, Loxodonta africana
-lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens
-giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca
+lesser panda, red panda, panda
+giant panda, panda, panda bear
 barracouta, snoek
 eel
-coho, cohoe, coho salmon, blue jack, silver salmon, Oncorhynchus kisutch
+coho, cohoe, coho salmon
 rock beauty, Holocanthus tricolor
 anemone fish
 sturgeon
-gar, garfish, garpike, billfish, Lepisosteus osseus
+gar, garfish, garpike, billfish
 lionfish
 puffer, pufferfish, blowfish, globefish
 abacus
@@ -406,20 +406,20 @@ aircraft
 glider
 altar
 ambulance
-amphibian, amphibious vehicle
+amphibious vehicle
 analog clock
 apiary, bee house
 apron
-ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin
+ashcan, trash can, garbage can
 assault rifle, assault gun
-backpack, back pack, knapsack, packsack, rucksack, haversack
+backpack, back pack, knapsack
 bakery, bakeshop, bakehouse
 balance beam, beam
 balloon
 ballpoint, ballpoint pen, ballpen, Biro
 Band Aid
 banjo
-bannister, banister, balustrade, balusters, handrail
+bannister, banister, balustrade
 barbell
 barber chair
 barbershop
@@ -434,7 +434,7 @@ bassoon
 bathing cap, swimming cap
 bath towel
 bathtub, bathing tub, bath, tub
-beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon
+beach wagon, station wagon
 beacon, lighthouse, beacon light, pharos
 beaker
 bearskin, busby, shako
@@ -458,7 +458,7 @@ bow
 bow tie, bow-tie, bowtie
 brass, memorial tablet, plaque
 brassiere, bra, bandeau
-breakwater, groin, groyne, mole, bulwark, seawall, jetty
+breakwater, groin, groyne, mole
 breastplate, aegis, egis
 broom
 bucket, pail
@@ -474,21 +474,21 @@ canoe
 can opener, tin opener
 cardigan
 car mirror
-carousel, carrousel, merry-go-round, roundabout, whirligig
+carousel, carrousel, merry-go-round,
 carpenter's kit, tool kit
 carton
 car wheel
-cash machine, cash dispenser, automated teller machine, automatic teller machine, automated teller, automatic teller, ATM
+cash machine, cash dispenser
 cassette
 cassette player
 castle
 catamaran
 CD player
 cello, violoncello
-cellular telephone, cellular phone, cellphone, cell, mobile phone
+cellular telephone, cellular phone
 chain
 chainlink fence
-chain mail, ring mail, mail, chain armor, chain armour, ring armor, ring armour
+chain mail, ring mail, mail, chain armor
 chain saw, chainsaw
 chest
 chiffonier, commode
@@ -496,7 +496,7 @@ chime, bell, gong
 china cabinet, china closet
 Christmas stocking
 church, church building
-cinema, movie theater, movie theatre, movie house, picture palace
+cinema, movie theater
 cleaver, meat cleaver, chopper
 cliff dwelling
 cloak
@@ -532,7 +532,7 @@ digital clock
 digital watch
 dining table, board
 dishrag, dishcloth
-dishwasher, dish washer, dishwashing machine
+dishwasher, dish washer
 disk brake, disc brake
 dock, dockage, docking facility
 dogsled, dog sled, dog sleigh
@@ -569,7 +569,7 @@ frying pan, frypan, skillet
 fur coat
 garbage truck, dustcart
 gasmask, respirator, gas helmet
-gas pump, gasoline pump, petrol pump, island dispenser
+gas pump, gasoline pump
 goblet
 go-kart
 golf ball
@@ -587,9 +587,9 @@ hair spray
 half track
 hammer
 hamper
-hand blower, blow dryer, blow drier, hair dryer, hair drier
-hand-held computer, hand-held microcomputer
-handkerchief, hankie, hanky, hankey
+hand blower, blow dryer
+hand-held computer
+handkerchief, hankie
 hard disc, hard disk, fixed disk
 harmonica, mouth organ, harp, mouth harp
 harp
@@ -630,7 +630,7 @@ naval ship
 lipstick, lip rouge
 Loafer
 lotion
-loudspeaker, speaker, speaker unit, loudspeaker system, speaker system
+loudspeaker, speaker
 loupe, jeweler's loupe
 lumbermill, sawmill
 magnetic compass
@@ -686,7 +686,7 @@ ocarina, sweet potato
 odometer, hodometer, mileometer, milometer
 oil filter
 organ, pipe organ
-oscilloscope, scope, cathode-ray oscilloscope, CRO
+oscilloscope, scope
 overskirt
 oxcart
 oxygen mask
@@ -732,7 +732,7 @@ plow, plough
 plunger, plumber's helper
 Polaroid camera, Polaroid Land camera
 pole
-police van, police wagon, paddy wagon, patrol wagon, wagon, black Maria
+police van, police wagon
 poncho
 pool table, billiard table, snooker table
 pop bottle, soda bottle
@@ -745,7 +745,7 @@ prison, prison house
 projectile, missile
 projector
 puck, hockey puck
-punching bag, punch bag, punching ball, punchball
+punching bag, punch bag
 purse
 quill, quill pen
 quilt, comforter, comfort, puff
@@ -858,14 +858,14 @@ thresher, thrasher, threshing machine
 throne
 tile roof
 toaster
-tobacco shop, tobacconist shop, tobacconist
+tobacco shop, tobacconist shop
 toilet seat
 torch
 totem pole
 tow truck, tow car, wrecker
 toyshop
 tractor
-trailer truck, tractor trailer, trucking rig, rig, articulated lorry, semi
+trailer truck, tractor trailer
 tray
 trench coat
 tricycle, trike, velocipede
@@ -894,7 +894,7 @@ wall clock
 wallet, billfold, notecase, pocketbook
 wardrobe, closet, press
 military air vehicle
-washbasin, handbasin, washbowl, lavabo, wash-hand basin
+washbasin, handbasin, washbowl
 washer, automatic washer, washing machine
 water bottle
 water jug
@@ -910,7 +910,7 @@ aircraft
 wok
 wooden spoon
 wool, woolen, woollen
-worm fence, snake fence, snake-rail fence, Virginia fence
+worm fence, snake fence, snake-rail fence
 wreck
 yawl
 yurt
@@ -984,7 +984,7 @@ groom, bridegroom
 scuba diver
 rapeseed
 daisy
-yellow lady's slipper, yellow lady-slipper, Cypripedium calceolus, Cypripedium parviflorum
+yellow lady's slipper, yellow lady-slipper
 corn
 acorn
 hip, rose hip, rosehip
@@ -994,7 +994,7 @@ agaric
 gyromitra
 stinkhorn, carrion fungus
 earthstar
-hen-of-the-woods, hen of the woods, Polyporus frondosus, Grifola frondosa
+hen-of-the-woods, hen of the woods
 bolete
 ear, spike, capitulum
 toilet tissue, toilet paper, bathroom tissue

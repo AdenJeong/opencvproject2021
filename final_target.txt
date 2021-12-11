@@ -1,0 +1,19 @@
+military air vehicle
+glider
+multirole aircraft
+projectile
+aircraft
+missile
+decoy, deployment
+machine
+amphibious vehicle
+tank, armored combat vehicle
+unicycle, monocycle
+maritime structure
+pirate, pirate ship
+electric ray, torpedo
+vessel
+naval ship
+warship
+speedboat
+naval vessel
