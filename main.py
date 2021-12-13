@@ -8,14 +8,6 @@ from PIL import ImageTk, Image # Pillow
 class Tk_Video:
     def __init__(self):
 
-        # GUI 설계
-        ###GUI 프로그램 이름 및 크기 정하기
-        ###프로그램 이름 = win
-
-        ###프로그램 디자인 관련 코드
-        ###프로그램 제목
-
-
         self.win = tk.Tk() # 인스턴스 생성
         self.win.title("Object Scan in Video Program") # 제목 표시줄 추가
         self.win.geometry("1200x600+200+100") # 지오메트리: 너비x높이+x좌표+y좌표
@@ -51,24 +43,9 @@ class Tk_Video:
         weapon_sys = tk.Label(self.win, text='대응 무기체계')
         weapon_sys.place(relx=0.82, rely=0.55)
 
-
-        ###객체 인식 프로그램 실행 함수
-        # def start_recog():
-
-        ###객체 인식 프로그램 종료 함수
-        # def stop_recog():
-
         ###동영상 불러오기 버튼
         video_add_btn = tk.Button(self.win, text='동영상 불러오기', command=self.video_open)
         video_add_btn.place(relx=0.05, rely=0.1)
-
-        ###동영상 재생 및 인식 시작 버튼
-        end_program_btn = tk.Button(self.win, text='객체 인식 시작', command=self.end_program)
-        end_program_btn.place(relx=0.05, rely=0.175)
-
-        ###동영상 정지 및 인식 종료 버튼
-        end_program_btn = tk.Button(self.win, text='객체 인식 종료', command=self.end_program)
-        end_program_btn.place(relx=0.05, rely=0.25)
 
         ###프로그램 종료 버튼
         end_program_btn = tk.Button(self.win, text='프로그램 종료', command=self.end_program)
@@ -78,12 +55,12 @@ class Tk_Video:
 
     def video_open(self):        ###동영상 파일 불러오기 함수
 
-        url1 = 'https://www.youtube.com/watch?v=WrfLHAX82g4'  # 공지합동훈련
+        url1 = 'https://www.youtube.com/watch?v=eNK5BgL4AOs'  # 공지합동훈련
         url2 = 'https://www.youtube.com/watch?v=cL-D2P0UMfU'  # 해군 관함식
         url3 = 'https://www.youtube.com/watch?v=xVA8bqOIIfg' # shorts
         url4 = 'https://www.youtube.com/watch?v=tMiXvno2Zw4'
 
-        video = pafy.new(url4)
+        video = pafy.new(url1)
         best = video.getbest(preftype='mp4')  # 'webm','3gp'
         self.cap = cv2.VideoCapture(best.url)  # 클래스 생성
 

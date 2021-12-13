@@ -1,7 +1,0 @@
-military air vehicle
-glider
-multirole aircraft
-projectile
-aircraft
-missile
-decoy, deployment
