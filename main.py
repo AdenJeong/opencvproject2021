@@ -60,7 +60,7 @@ class Tk_Video:
         url3 = 'https://www.youtube.com/watch?v=xVA8bqOIIfg' # shorts
         url4 = 'https://www.youtube.com/watch?v=tMiXvno2Zw4'
 
-        video = pafy.new(url1)
+        video = pafy.new(url3)
         best = video.getbest(preftype='mp4')  # 'webm','3gp'
         self.cap = cv2.VideoCapture(best.url)  # 클래스 생성
 
